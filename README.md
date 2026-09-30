@@ -6,7 +6,7 @@ South region drives 38% sales but profit inconsistent. Where should business inv
 
 ## KPIs (Validated: 29,12,750)
 - Total Sales: 29,12,750
-- Total Profit: 8,71,863
+- Total Profit: 8,73,825
 - Profit %: 30%
 - Top Region: South (38%)
 - Top Product: Chair (31.6% sales)
