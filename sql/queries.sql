@@ -1,3 +1,4 @@
+-- Total Revenue: 2912750 | Total Profit: 873825 | Validated with Power BI
 USE regional_sales;
 
 -- Q1 Total Sales KPI validated
