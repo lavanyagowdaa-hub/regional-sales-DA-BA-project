@@ -1,4 +1,4 @@
-# Regional Sales - DA+BA Project (15-18 LPA Ready)
+# Regional Sales - DA+BA Project 
 Owner: lavanyagowdaa-hub
 
 ## Business Problem
