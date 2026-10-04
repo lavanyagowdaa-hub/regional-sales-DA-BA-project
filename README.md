@@ -1,6 +1,6 @@
 # Regional Sales - DA+BA Project 
 
-![Dashboard](dashboard.jpg)
+![Dashboard](dashboard.jpeg)
 ## Business Problem
 South region drives 38% sales but profit inconsistent. Where should business invest inventory?
 
