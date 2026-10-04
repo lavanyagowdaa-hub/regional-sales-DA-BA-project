@@ -1,6 +1,6 @@
 # Regional Sales - DA+BA Project 
-Owner: lavanyagowdaa-hub
-![Dashboard](dashboard.jpeg)
+
+![Dashboard](dashboard.jpg)
 ## Business Problem
 South region drives 38% sales but profit inconsistent. Where should business invest inventory?
 
